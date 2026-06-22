@@ -184,7 +184,7 @@ CLASS_NAMES = ['Apple___Apple_scab',
 # 3. Load Model with Caching
 @st.cache_resource
 def load_my_model():
-    return tf.keras.models.load_model("phase2_best.keras")
+    return tf.keras.models.load_model("phase2_best.keras", compile=False)
 
 with st.spinner("Loading Deep Learning Model..."):
     model = load_my_model()
