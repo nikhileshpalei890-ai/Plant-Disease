@@ -467,12 +467,10 @@ with st.sidebar:
 
     ---
     **Developed by:**  
-    Nikhilesh Palei
-    -Examination Roll No:
+    Nikhilesh Palei<br>Examination Roll No:
     5503U24034
 
-    Chinmayee Routray
-    -Examination Roll No:
+    Chinmayee Routray<br>Examination Roll No:
     5503U24021
                       
     B.Sc. Computer Science  
