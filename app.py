@@ -467,11 +467,11 @@ with st.sidebar:
 
     ---
     **Developed by:**  
-    NIKHILESH PALEI
+    **NIKHILESH PALEI**
     --Examination Roll No:
     5503U24034
 
-    CHINMAYEE ROUTRAY
+    **CHINMAYEE ROUTRAY**
     --Examination Roll No:
     5503U24021
                       
