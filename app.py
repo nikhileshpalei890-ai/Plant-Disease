@@ -458,6 +458,7 @@ with st.sidebar:
                 
     **Training Data:**
     - PlantVillage Dataset (54,306 images)
+                  
     **Testing Data:**
     - Collected during Field Visit
 
@@ -467,12 +468,18 @@ with st.sidebar:
     ---
     **Developed by:**  
     Nikhilesh Palei
-                 
+              
     Examination Roll No:
-    5503U24034    
+    5503U24034
+
+    Chinmayee Routray
+              
+    Examination Roll No:
+    5503U24021
                       
     B.Sc. Computer Science  
-    Prananath College (Autonomous) 
+    Prananath College (Autonomous),Khordha
+              
     Utkal University  
 
     *Field Work Project — 4th Semester*
